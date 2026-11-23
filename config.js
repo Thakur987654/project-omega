@@ -1,2 +1,2 @@
 const PORT = 8080;
-const MODE = "dev";
+const MODE = "production";
